@@ -10,14 +10,15 @@ layout: default
 
 ![Alt text](../assets/week-01/1000027723.jpg)
 Group Swap visual data drawings
-![Alt text][def]
+
+
 Data collection during the week for experiment two
 ![Alt text](../assets/week-01/1000031359.jpg)
 
 ![Alt text](../assets/week-01/1000031361.jpg)
 
 *What did you choose to track, and why?
-I chose to track the physical contact I had with other people throughout the day over four days. I selected this because it is easy to remember, which helps improve the accuracy of the data when recording it later. Additionally, physical contact is a meaningful way to observe the social interactions and patterns in my daily life.*
+I chose to track the physical contact I had with other people throughout the day over four days. I selected this because it is easy to remember, which helps improve the accuracy of the data when recording it later. Additionally, physical contact is a meaningful way to observe the social interactions and patterns in my daily life.* 
 
 *What was it like to collect and visualise this data?
 Collecting data regularly during the day seemed difficult at first so I limited it to three physical touches everyday that stand out to me and can be recorded. If I was outside for example I would use my phone to record some of the data for better accuracy and finish later. Visualising the data is a challenging part as I had to make every aspect of the recorded experience clear. Including symbols, colour and shapes but it was also a fun process.*
