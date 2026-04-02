@@ -8,48 +8,32 @@ layout: default
 
 ## Documentation 
 
-**
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
+![Alt text](../assets/week-01/1000027723.jpg)
+Group Swap visual data drawings
+![Alt text][def]
+Data collection during the week for experiment two
+![Alt text](../assets/week-01/1000031359.jpg)
 
-## Images & Media
+![Alt text](../assets/week-01/1000031361.jpg)
 
-*Use the format below to embed images from your assets folder:*
+*What did you choose to track, and why?
+I chose to track the physical contact I had with other people throughout the day over four days. I selected this because it is easy to remember, which helps improve the accuracy of the data when recording it later. Additionally, physical contact is a meaningful way to observe the social interactions and patterns in my daily life.*
 
-`![Alt text](../assets/week-01/(images/1000027723.jpg)s
-`*Your caption here*`
+*What was it like to collect and visualise this data?
+Collecting data regularly during the day seemed difficult at first so I limited it to three physical touches everyday that stand out to me and can be recorded. If I was outside for example I would use my phone to record some of the data for better accuracy and finish later. Visualising the data is a challenging part as I had to make every aspect of the recorded experience clear. Including symbols, colour and shapes but it was also a fun process.*
 
+*What did you notice that you wouldn't have otherwise?
+Through tracking my physical contacts, I noticed patterns in how often and where these interactions occurred. For example I noticed that many of these interactions happened accidentally or very casually. I was also more aware of my emotional response to these interactions. I noticed that I tend to avoid physical contact as much as possible. These happen with strangers on buses or with crowds mostly but i realised it's quite unavoidable sometimes. This is something I wouldn't notice in my daily life, but during this experiment it became more obvious to me.*
 
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
+*What choices did you make for your data collection? What does it emphasise? What is left out?
+I chose to also track the time of day these events happened, the place, and how I felt when they occurred. This emphasised a broader perspective with every interaction I had, such as the environment I'm in or the people I'm with. It also created a pattern that allowed me to see how my interactions depended a lot on my emotional state which would have created a bias at certain times. The data I recorded may have also left out important details such as the intensity of each contact or my emotional state before every interaction. Also, recording only three interactions a day meant that there were small interactions that I did not remember or consider to record.*
 
-What can you learn about the people in this group from their data portrait?
-The data of each person from this group shown, varies largly from one to another. The group has used colour coding, symbols, numbers, shapes and positions over the page to record thier data. The team used zzz (sleeping symbol) which me and my team figured would be the amount of hours each member had gotten of sleep using line and numbers to record how much hours each has slept. I learned how different everyone is in the times they sleep or wake up but we can still find a pretty good range for when all of them might have been asleep at the same time. Despite their differences shown on their page we can also notice some data being collected that has similarty between the group members.
+*How does this exercise relate to data humanism and the *Dear Data* project?
+This exercise relates to data humanism by focusing on subjective and personal experiences rather than just numerical data. As mentioned in Giorgia Lupi’s  Ted Talk “Data is just a tool we use to see through things”. Similarly with the Dear Data project, both see data not just through numerals, graphs and charts but as things in our reality that we experience. They visualise data in a creative and meaningful process.*
 
-What surprised you? 
-what surprised me most is how we were able to come up with multiple guesses for each data recorded on the page and yet none could have been correct. One of their recorded data was on how many meals each of them eat in a single day. This data was recorded using a circle (plate) with dots inside representing number of meals for each member. This was very difficult to recognise as the the dots or circle could have represented and amount of anything.
-
-What questions do you have for them? 
-A question i have for the team is if they have had any strategy or special way to connect their data togeteher and present it. if so? how did they manage to get that done?
-
-Can you tell who is who?
-It was not very easy to tell who is who however, I was able to guess two people from the colour codings they've used to identify each member. I was able to tell them apart from other because their colour codes suit the clothings they were wearing. I can also see a pattern in how the colours also match their personalities iin a way which might have made it easier for me to figure out. 
-
-
-
-
-What did you choose to track, and why?
-
-What was it like to collect and visualise this data?
-
-What did you notice that you wouldn't have otherwise?
-
-What choices did you make for your data collection? What does it emphasise? What is left out?
-
-How does this exercise relate to data humanism and the *Dear Data* project?
-
-Any other reflections?
+*Any other reflections?
+This experiment helped me realise that data can be easily collected by anyone. However, it can also be very much influenced by memory or personal bias. I like the idea of simply tracking repetitive or small behaviours for a small amount of time can help you visualise a pattern and give us a wider perspective of our lives. I would love to try this with other niche daily behaviours and see what comes up.*
 
 ## AI Usage Statement
 
-During this process i have not used any AI
-
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+*This work was completed without the use of AI.*
