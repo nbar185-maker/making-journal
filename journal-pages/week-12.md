@@ -6,16 +6,17 @@ layout: default
 
 [← Back to Home](../index.md)
 
-## Documentation 
+## Final Artefact
 
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
 
-## Images & Media
+`![Alt text](../assets/week-12/1.jpg)
 
-*Use the format below to embed images from your assets folder:*
+`![Alt text](../assets/week-12/2.jpg)
 
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
+`![Alt text](../assets/week-12/3.jpg)
+
+
+
 
 *The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
 
