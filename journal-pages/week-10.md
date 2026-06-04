@@ -6,19 +6,19 @@ layout: default
 
 [← Back to Home](../index.md)
 
-## Documentation 
+## Project Development
 
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
 
-## Images & Media
+`![Alt text](../assets/week-10/material.jpg)
 
-*Use the format below to embed images from your assets folder:*
+`![Alt text](../assets/week-10/mixer.jpg)
 
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
+*In this weeks project documentation, I was able to mix up some of the data collected. However due to the limitation of the lab's materials, I was unable to reuse all the materials collected. I will need to make sure that the data is still shown through the reshapement of my project.*
 
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
+`![Alt text](../assets/week-10/visualisation.jpg)
+
+
 
 ## AI Usage Statement
 
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+*This work was completed without the use of any AI tools.*
