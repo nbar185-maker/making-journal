@@ -36,8 +36,13 @@ layout: default
 
 ## Independant Study
 
+`![Alt text](../assets/week-11/possiblesolutions.jpg)
 
+`![Alt text](../assets/week-11/reshaped.jpg)
 
+*The support trees represent PLA waste in its original form, showing the material that is regularly produced and discarded through 3D printing in the design studio. The circular forms represent the same material after it has been collected, crushed, and melted down, symbolising its transformation into a reusable resource.Each structure represents one week of collected data. The diameter of the structure shows the total weight of PLA collected that week, while the volume represents the number of individual pieces collected.*
+
+*The blue support trees are actual 3D printing support structures. Initially, the artefact was intended to include real trees to represent the environmental setting. However, I realised that the larger materials collected from my dataset resembled trees and naturally acted as a support system themselves. This was successfully incorporated into the design, helping to represent a future built on stronger support through the reuse of discarded materials.*
 
 ## AI Usage Statement
 
