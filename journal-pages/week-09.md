@@ -81,8 +81,7 @@ layout: default
 
 *The final dataset has been colected which totalled a weight of 19.7g.*
 
-`![Alt text](/assets/week-09/gweek3data.png)
-
+`![Alt text](/assets/week-09/week3data.jpg)
 
 
 *I started by manually cutting the PLA scraps into smaller pieces because I’m not yet able to use the mixers. This took quite a long time, but I am still experimenting and looking for easier and more efficient ways to break the material down.*
