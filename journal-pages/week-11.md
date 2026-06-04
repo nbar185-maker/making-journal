@@ -44,6 +44,8 @@ layout: default
 
 *The blue support trees are actual 3D printing support structures. Initially, the artefact was intended to include real trees to represent the environmental setting. However, I realised that the larger materials collected from my dataset resembled trees and naturally acted as a support system themselves. This was successfully incorporated into the design, helping to represent a future built on stronger support through the reuse of discarded materials.*
 
+*As I was piecing together my artefact, what surprised me most was the number of different ways I could arrange the work while still visualising the same dataset and communicating a similar message. This remided me the importance of experimentation. I experimented with the methods of laying my works and creating while remaining resourceful and conscious of the amount of material being used.*
+
 ## AI Usage Statement
 
 *This work was completed without the help of any AI tools.*
