@@ -6,36 +6,39 @@ layout: default
 
 [← Back to Home](../index.md)
 
-## Documentation 
+## Activity 1 - Journal Review
 
-*Journal Health Check* 
+**Overview**
 
-*Overview*
 *In this activity we are reviewing our partner's journal entries and checking off their list of of journal entries.*
 
-Then re-read your own journal entries in preparation for the Studio Consultation. Identify three key moments (e.g. discoveries, challenges, decisions, feedback) that shaped your project direction. Write 1–2 sentences about each of these.
+**Discoveries**
 
-*I recieved key feedback in week 6 that shifted my direction and shaped the decisions I have made for my project. I was able to identify data collection gaps and be able to focus on an aspect of my data that actually matters most.*
+*The amount of PLA waste collected each week was lower than I expected, but still revealed inconsistent disposal practices in the design lab. This led me to focus more on making even small amounts of waste visible and meaningful through the final model.*
 
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
+**Challenge**
 
-*Parctice Consultation 1*
-*The way I responded to the questions in this practice round was clear and showed clear understanding of my project's theme. However there seemed to be gaps within the visualisation of my project. I would like to be more clear of the final visualisation of my project. I recieved comments on scaling the final artefact larger so the interactive element is clearer, however, considering the the amount of materials collected, im not enturely sure that will be presented effectively since the collected material is proportionally less.*
+*I realised that turning raw PLA scraps into usable sculptural material is more complex than expected and will require testing different methods.*
 
-*Practice consltation 2*
-*In the second practice consultation, I can see my responses and ideas become clearer and more focused. One thing that needs improvement is the depth of my responses of the process and logic behind my choices.*
+**Decisions**
 
-Reflect on how you responded to the questions. Consider whether your answers were focused and coherent, and whether you were able to articulate how your work positions itself within broader ideas about data. Write 2–3 sentences about what you want to improve on, and keep these notes for your journal. Then find a new partner and repeat.
+*I decided to directly show my data through the material itself by using weight to determine shape and scale, and volume to represent the total amount of waste collected. This makes the relationship between data and physical form more clear.*
 
-## Images & Media
+## Activity 2 - Practice Consultations
 
-*Use the format below to embed images from your assets folder:*
 
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
+**Parctice Consultation 1**
 
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
+*In the first practice consultation, I felt my responses were clear and showed a good understanding of my project, but there were gaps in how I explained the visualisation. I need to be more specific about how the final outcome will look and how it represents the data. I also received feedback about scaling the artefact larger, but I am still unsure how this will work effectively with the small amount of material collected.*
+
+*In the second practice consultation, my ideas became clearer and more focused. However, I still need to improve the depth of my explanations, especially when describing the process and reasoning behind my design decisions.*
+
+
+## Independant Study
+
+
+
 
 ## AI Usage Statement
 
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+*This work was completed without the help of any AI tools.*
